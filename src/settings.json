@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is coming up soon! Don't miss out.",
+        "linkText": "Sign up now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community.",
+        "title": "Ignite Innovation with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Ignite Innovation with Yay",
+  "subtitle": "Inspire your next big idea with our expert-driven technical insights and collaborative community."
+}
